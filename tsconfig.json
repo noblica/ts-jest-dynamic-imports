@@ -13,6 +13,8 @@
     "strictNullChecks": true,
     "removeComments": false,
     "importHelpers": true,
+    "allowSyntheticDefaultImports": true,
+    "esModuleInterop": true,
     "outDir": "dist",
     "lib": ["es6", "es7", "dom"]
   },
